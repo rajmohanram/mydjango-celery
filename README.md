@@ -1,0 +1,1 @@
+# mydjango-celery
